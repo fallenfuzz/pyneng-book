@@ -19,10 +19,21 @@
 
 Для запуска тестов используется pytest - фреймворк для написания тестов.
 
+Перед запуском тестов надо установить такие модули:
+
+::
+
+    pip install pytest-clarity pyyaml
+
+Для корректной работы тестов, надо скопировать себе не только каталог заданий
+одного раздела, а весь каталог exercises из `репозитория с заданиями <https://github.com/natenka/pyneng-examples-exercises>`__.
+А лучше создать себе копию репозитория с заданиями, как написано `тут <https://pyneng.readthedocs.io/ru/latest/book/02_git_github/git_github_changes.html>`__.
+
 .. note::
 
     `Запись лекции по использованию pytest для проверки
-    заданий <https://youtu.be/R8vWoJ13MFM>`__
+    заданий <https://youtu.be/TI6-vFFV9lk>`__
+
 
 .. toctree::
    :maxdepth: 1

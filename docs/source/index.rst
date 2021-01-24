@@ -16,6 +16,7 @@ Python для сетевых инженеров
    :maxdepth: 2
 
    intro_index
+   book_links
    book/Part_I
    book/Part_II
    book/Part_III
@@ -26,4 +27,4 @@ Python для сетевых инженеров
    book/Part_VIII
    resources/README
    testimonials
-
+   download
